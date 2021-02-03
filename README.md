@@ -3,7 +3,7 @@ A simple bunny hop script for Counter Strike Global Offensive
 
 # Information
 This an external bunny hop script made for counter strike.
-This program was made for me to know a little bit more of game hacking and please if you are going to use it use it on ofline mode or for private matchs
+This program was made for me to know a little bit more of game hacking and please if you are going to use it, use it on ofline mode or for private matchs
 
 # Is it the best?
 Probably there are betters bunny hop scripts, but this is free so it is a good option if you want something simple
