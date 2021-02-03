@@ -13,5 +13,9 @@ If the cheat has any issues or it isnt updated you can report it on https://gith
 
 If you are banned dont write to me saying that this cheat is a shit the shit are you that you dont know how to cheat well
 
+# Contributing
+
+Fell free to contribute, create pull request and if all is okey and working it will be acepted
+
 # Tools
 This bunny hop script uses a library called Memory [https://github.com/erfg12/memory.dll/]
