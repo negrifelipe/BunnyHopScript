@@ -1,6 +1,8 @@
 # BunnyHopScript
 A simple bunny hop script for Counter Strike Global Offensive
 
+This program was made for me to know a little bit more of game hacking
+
 # Information
 This an external bunny hop script made for counter strike.
 
@@ -9,6 +11,8 @@ Probably there are betters bunny hop scripts, but this is free so it is a good o
 
 # Issues
 If the cheat has any issues or it isnt updated you can report it on https://github.com/01-Feli/BunnyHopScript/issues
+
+If you are banned dont write to me saying that this cheat is a shit the shit are you that you dont know how to cheat well
 
 # Tools
 This bunny hop script uses a library called Memory [https://github.com/erfg12/memory.dll/]
