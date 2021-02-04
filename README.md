@@ -18,6 +18,6 @@ If you are banned dont write to me saying that this cheat is a shit the shit are
 Fell free to contribute, create pull request and if all is okey and working it will be acepted
 
 # Tools
-This bunny hop script uses a library called Memory for writing/reading fron the game memory [https://github.com/erfg12/memory.dll/], also i use Hazedumper yo know the game offsets [https://github.com/frk1/hazedumper]
+This bunny hop script uses a library called Memory for writing/reading fron the game memory [https://github.com/erfg12/memory.dll/], also i use Hazedumper to know the game offsets [https://github.com/frk1/hazedumper]
 
 [![Github All Releases](https://img.shields.io/github/downloads/01-Feli/BunnyHopScript/total?label=Github%20Downloads)]()
