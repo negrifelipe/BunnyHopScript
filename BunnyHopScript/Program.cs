@@ -40,7 +40,7 @@ namespace Feli.BunnyHopScript
                 {
                     if (_mem.ReadInt("client.dll+0xD8B2BC,0x104", "") == 257)
                     {
-                        _mem.WriteMemory("client.dll+0x524CEB4", "int", "6");
+                        _mem.WriteMemory("client.dll+0x524CEA4", "int", "6");
                     }
                 }
             }
