@@ -38,9 +38,9 @@ namespace Feli.BunnyHopScript
             {
                 if (GetAsyncKeyState(32) < 0)
                 {
-                    if (_mem.ReadInt("client.dll+0xD8B2BC,0x104", "") == 257)
+                    if (_mem.ReadInt("client.dll+0xD8B2DC,0x104", "") == 257)
                     {
-                        _mem.WriteMemory("client.dll+0x524CEA4", "int", "6");
+                        _mem.WriteMemory("client.dll+0x524CE84", "int", "6");
                     }
                 }
             }
